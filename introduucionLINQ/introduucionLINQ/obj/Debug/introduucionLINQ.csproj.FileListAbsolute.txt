@@ -1,0 +1,10 @@
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\bin\Debug\introduucionLINQ.exe.config
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\bin\Debug\introduucionLINQ.exe
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\bin\Debug\introduucionLINQ.pdb
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.csproj.AssemblyReference.cache
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.Form1.resources
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.Properties.Resources.resources
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.csproj.GenerateResource.cache
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.csproj.CoreCompileInputs.cache
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.exe
+F:\imagenes\UGB\programacion computacional\introduucionLINQ\introduucionLINQ\obj\Debug\introduucionLINQ.pdb
